@@ -1,0 +1,10 @@
+{
+  "credentials":"aaa:bbb",
+  "sourceFile":"./2012-based_Subnational_Population_Projections-mf.json",
+  "dataPath": "mydata.jsondata",
+  "basedOnSchema": "LadPoplet",
+  "targetFolder": "HkekglmJf",
+  "upsertMode": false,
+  "schema": {},
+  "primaryKey": ["area_id", "age_band", "gender", "year", "popId"]
+}
